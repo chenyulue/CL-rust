@@ -2,4 +2,4 @@
 resolver="2"
 members = [
     "ch01/hello"
-]
+, "ch02/echor"]
